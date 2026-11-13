@@ -1,0 +1,15 @@
+# PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets (WiFi, Telegram token, passwords) - must never enter git.
+src/secrets.h
